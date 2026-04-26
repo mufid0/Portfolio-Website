@@ -1,49 +1,115 @@
-MUFID PANHALKAR — AI/ML PORTFOLIO
-==================================
+# Mufid Panhalkar — AI/ML Portfolio
 
-Files included
---------------
-  index.html            Self-contained portfolio (all CSS + JS inlined)
-  images/jinwoo-hero.jpg     Hero portrait (Solo Leveling — Shadow Monarch)
-  images/shadow-army.jpg     Contact section image (Shadow Army)
-  serve.py              Optional one-line Python server
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Safety%20%26%20LLMs-38bdf8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-34d399?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mufid0&label=Profile%20Views&color=6c63ff&style=flat-square" />
+</p>
 
-How to run on your local server
--------------------------------
+---
 
-OPTION 1 — Just double-click
-  Most browsers will open `index.html` directly. Fonts and styles work,
-  but some browsers block local images from `file://` for security.
-  If images don't show, use Option 2 instead.
+## 🧠 About Me
+AI/ML Engineer focused on building **reliable, robust, and safe AI systems**.  
+Specialized in **model evaluation, LLM safety, and applied machine learning systems**.
 
-OPTION 2 — Python (recommended, no install needed if Python is present)
-  Open a terminal in this folder and run:
+Currently targeting **FAANG-level ML Engineering and AI Research roles**.
 
-      python3 serve.py
+---
 
-  Then open http://localhost:8000 in your browser.
+## 🚀 Portfolio
+👉 Live Portfolio: https://mufid0.github.io/Portfolio-Website/
 
-  (Or directly:  python3 -m http.server 8000)
+---
 
-OPTION 3 — Node.js
-  npx serve .
-  Then open the URL it prints.
+## 🛠 Tech Stack
 
-OPTION 4 — Any other static server
-  Drop the entire folder into Apache / Nginx / Caddy / Vercel / Netlify /
-  GitHub Pages — `index.html` is the entry point. No build step required.
+**Languages:** Python, SQL, JavaScript  
+**ML/DL:** Scikit-learn, Pandas, NumPy  
+**AI:** NLP, Transformers, Embeddings  
+**Tools:** Git, Azure (AZ-900), Feature Engineering  
 
+---
 
-Editing
--------
-Everything lives in a single HTML file (`index.html`).
-  - Content (text, links, projects)  →  edit the <body>
-  - Styling (colors, layout)          →  edit the <style> block (top)
-  - Behavior (cursor, animations)     →  edit the <script> block (bottom)
+## 📁 Projects
 
-Color theme variables are defined under `:root { ... }` near the top
-of the <style> block — change `--accent`, `--accent2`, `--accent3` to
-re-skin the whole site.
+### 🛡 LLM Safety Evaluation Toolkit
+- Hallucination & bias detection system  
+- Adversarial prompt testing pipeline  
+- 100+ prompts evaluated  
 
-— Built with precision · Targeting FAANG
+**Tech:** Python, NLP, Transformers  
+
+---
+
+### 📚 Offline AI Education Platform
+- Offline AI system using 1000+ NCERT documents  
+- Hallucination reduction layer  
+- Low-resource deployment focus  
+
+**Tech:** Python, Rule-based NLP  
+
+---
+
+### 📈 Customer Churn Prediction
+- 10K+ dataset  
+- 80–85% accuracy  
+- +12% improvement via ensemble methods  
+
+**Tech:** Scikit-learn, Pandas  
+
+---
+
+## 💼 Experience
+
+**Python Developer Intern** — ClinchEdge Global Services  
+- Backend automation tools  
+- Modular Python development  
+- Git-based workflows  
+
+**Data Science Intern** — ScaleFULL Technologies  
+- ML pipeline development  
+- Feature engineering  
+- Model evaluation & optimization  
+
+---
+
+## 🎓 Certifications
+
+- Azure Fundamentals (AZ-900) — Microsoft  
+- IIT Bombay Spoken Tutorial (Python, C++, MySQL)  
+- IIT Guwahati AI/ML Program (In Progress)  
+- McKinsey Forward Program (In Progress)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mufid0&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mufid0&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufid0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Goal
+Building production-grade AI systems for:
+- ML Engineering roles  
+- AI Safety / LLM Evaluation  
+- Applied NLP & Research roles  
+
+---
+
+<p align="center">
+  <i>"Building AI systems that are not just intelligent — but safe, reliable, and scalable."</i>
+</p>
